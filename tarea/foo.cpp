@@ -2,6 +2,7 @@
 
 Matriz2D::Matriz2D(){
     // Constructor por defecto
+    
 }
 
 Matriz2D::Matriz2D(int n){
